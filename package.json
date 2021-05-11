@@ -1,0 +1,23 @@
+{
+  "name": "cucumber_login_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A",
+  "scripts": {
+    "test": "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morulabla/cucumber-login-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morulabla/cucumber-login-test/issues"
+  },
+  "homepage": "https://github.com/Morulabla/cucumber-login-test#readme",
+  
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
